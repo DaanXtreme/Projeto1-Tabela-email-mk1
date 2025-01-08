@@ -61,3 +61,4 @@ mail.HTMLBody =f'''
 
 # formatters, gera um dicionario dentro do html
 mail.Send()
+print('Email enviado com sucesso')
